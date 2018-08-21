@@ -13,7 +13,7 @@ yarn add (-D) locker-keys
 
 ## Examples
 
-Before try, `lockers.json` to create on current directory, following like.
+Before try, `locker.json` to create on current directory, following like.
 
 ```json
 {

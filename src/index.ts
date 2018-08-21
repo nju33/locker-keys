@@ -7,12 +7,12 @@ interface LockerKeysTree {
 }
 
 /**
- * Get data of `lockers.json`
+ * Get data of `locker.json`
  */
 const getData: (dirname: string) => Promise<LockerKeysTree> = async (
   dirname = __dirname,
 ) => {
-  const filrname = path.resolve(dirname, 'lockers.json');
+  const filrname = path.resolve(dirname, 'locker.json');
   await fs.stat(filrname);
   return fs.readJson(filrname);
 };

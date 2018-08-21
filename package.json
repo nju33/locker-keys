@@ -1,6 +1,6 @@
 {
   "name": "locker-keys",
-  "description": "To read `lockers.json` and to get those value by cli",
+  "description": "To read `locker.json` and to get those value by cli",
   "version": "0.0.5",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
