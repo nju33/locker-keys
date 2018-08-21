@@ -1,0 +1,12 @@
+{
+  "foo": {
+    "bar": {
+      "baz": "baz",
+      "qux": "qux"
+    }
+  },
+  "hoge": {
+    "fuga": "fuga",
+    "piyo": "piyo"
+  }
+}

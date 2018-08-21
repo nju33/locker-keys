@@ -1,0 +1,39 @@
+{
+  "name": "locker-keys",
+  "description": "To read `locker-keys.json` and to get those value by cli",
+  "version": "0.0.0",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "source": "dist/index.ts",
+  "bin": {
+    "locker-keys": "cli.js"
+  },
+  "files": [
+    "dist",
+    "cli.js"
+  ],
+  "keywords": [
+    "cli"
+  ],
+  "repository": "nju33/locker-keys",
+  "author": "nju33 <nju33.ki@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "fs-extra": "^7.0.0",
+    "yargs": "^12.0.1"
+  },
+  "scripts": {
+    "prepare": "yarn build",
+    "test": ":",
+    "build": "tsc"
+  },
+  "devDependencies": {
+    "@geekcojp/prettier-config": "^0.2.2",
+    "@geekcojp/tslint-config": "^0.2.1",
+    "@types/fs-extra": "^5.0.4",
+    "@types/yargs": "^11.1.1",
+    "prettier": "^1.14.2",
+    "tslint": "^5.11.0",
+    "typescript": "^3.0.1"
+  }
+}
