@@ -19,18 +19,18 @@
     reflect-metadata "^0.1.12"
     tslib "^1.8.1"
 
-"@geekcojp/prettier-config@^0.2.2":
+"@geekcojp/prettier-config@0.2.2":
   version "0.2.2"
   resolved "https://registry.yarnpkg.com/@geekcojp/prettier-config/-/prettier-config-0.2.2.tgz#a24e73feb98909ac0af16b12c24acb7d4dce1db4"
 
-"@geekcojp/tslint-config@^0.2.1":
+"@geekcojp/tslint-config@0.2.1":
   version "0.2.1"
   resolved "https://registry.yarnpkg.com/@geekcojp/tslint-config/-/tslint-config-0.2.1.tgz#2b34c6657c0678adad70d695b2b6a457a78e972c"
   dependencies:
     tslint-config-prettier "^1.13.0"
     tslint-xo "^0.8.0"
 
-"@types/fs-extra@^5.0.4":
+"@types/fs-extra@5.0.4":
   version "5.0.4"
   resolved "https://registry.yarnpkg.com/@types/fs-extra/-/fs-extra-5.0.4.tgz#b971134d162cc0497d221adde3dbb67502225599"
   dependencies:
@@ -40,7 +40,7 @@
   version "10.7.1"
   resolved "https://registry.yarnpkg.com/@types/node/-/node-10.7.1.tgz#b704d7c259aa40ee052eec678758a68d07132a2e"
 
-"@types/yargs@^11.1.1":
+"@types/yargs@11.1.1":
   version "11.1.1"
   resolved "https://registry.yarnpkg.com/@types/yargs/-/yargs-11.1.1.tgz#2e724257167fd6b615dbe4e54301e65fe597433f"
 
@@ -401,7 +401,7 @@ path-parse@^1.0.5:
   version "1.0.6"
   resolved "https://registry.yarnpkg.com/path-parse/-/path-parse-1.0.6.tgz#d62dbb5679405d72c4737ec58600e9ddcf06d24c"
 
-prettier@^1.14.2:
+prettier@1.14.2:
   version "1.14.2"
   resolved "https://registry.yarnpkg.com/prettier/-/prettier-1.14.2.tgz#0ac1c6e1a90baa22a62925f41963c841983282f9"
 
@@ -536,7 +536,7 @@ tslint-xo@^0.8.0:
     tslint-eslint-rules "^5.3.1"
     tslint-microsoft-contrib "^5.0.2"
 
-tslint@^5.11.0:
+tslint@5.11.0:
   version "5.11.0"
   resolved "https://registry.yarnpkg.com/tslint/-/tslint-5.11.0.tgz#98f30c02eae3cde7006201e4c33cb08b48581eed"
   dependencies:
@@ -571,7 +571,7 @@ tsutils@^3.0.0:
   dependencies:
     tslib "^1.8.1"
 
-typescript@^3.0.1:
+typescript@3.0.1:
   version "3.0.1"
   resolved "https://registry.yarnpkg.com/typescript/-/typescript-3.0.1.tgz#43738f29585d3a87575520a4b93ab6026ef11fdb"
 
