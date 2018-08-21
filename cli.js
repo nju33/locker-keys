@@ -2,7 +2,7 @@
 const lockerKeys = require('./dist').default;
 
 (async () => {
-  await lockerKeys.process(__dirname);
+  await lockerKeys.process(process.cwd());
 })()
   .catch(err => {
     console.error(err);
