@@ -31,7 +31,7 @@
     "@geekcojp/prettier-config": "0.3.0",
     "@geekcojp/tslint-config": "0.2.1",
     "@types/fs-extra": "5.0.4",
-    "@types/yargs": "11.1.2",
+    "@types/yargs": "12.0.1",
     "prettier": "1.14.3",
     "tslint": "5.11.0",
     "typescript": "3.1.3"
