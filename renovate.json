@@ -1,8 +1,5 @@
 {
-  "extends": ["config:base"],
-  "automerge": true,
-  "major": {
-    "automerge": false
-  },
-  "assignees": ["@nju33"]
+  "extends": [
+    "config:base"
+  ]
 }
