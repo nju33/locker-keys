@@ -48,9 +48,9 @@
     tslint-config-prettier "^1.13.0"
     tslint-xo "^0.8.0"
 
-"@types/fs-extra@5.0.4":
-  version "5.0.4"
-  resolved "https://registry.yarnpkg.com/@types/fs-extra/-/fs-extra-5.0.4.tgz#b971134d162cc0497d221adde3dbb67502225599"
+"@types/fs-extra@5.1.0":
+  version "5.1.0"
+  resolved "https://registry.yarnpkg.com/@types/fs-extra/-/fs-extra-5.1.0.tgz#2a325ef97901504a3828718c390d34b8426a10a1"
   dependencies:
     "@types/node" "*"
 
